@@ -1,0 +1,12 @@
+mul result 32
+mul result 16
+add result 8
+add result 20
+mul result 560
+mul result 560
+mul result 560
+mul result 560
+mul result 560
+mul result 560
+mul result 560
+mul result 560
